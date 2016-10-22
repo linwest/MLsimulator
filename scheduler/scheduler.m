@@ -1,6 +1,6 @@
 classdef scheduler < handle
-    %SCHEDULER このクラスの概要をここに記述
-    %   詳細説明をここに記述
+    %SCHEDULER 縺薙�ｮ繧ｯ繝ｩ繧ｹ縺ｮ讎りｦ√ｒ縺薙％縺ｫ險倩ｿｰ
+    %   隧ｳ邏ｰ隱ｬ譏弱ｒ縺薙％縺ｫ險倩ｿｰ
     
     properties
         nodeList
